@@ -1,0 +1,34 @@
+.row
+{
+    text-align: center;
+    background-color: whitesmoke;
+    box-shadow: gray 1px 1px 2px 2px ;
+    border-radius: 2px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h2{
+    background-color: rgba(0, 128, 128, 0.603);
+    border-radius: 3px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow:whitesmoke  1px 1px 2px 2px;
+}
+p{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+        content: "\f046";
+        font-family: FontAwesome;
+        display: inline-block;
+        
+      
+}
+h1,h2{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3pc;
+}
