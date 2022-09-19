@@ -21,3 +21,14 @@ Introduction:
             on as eu de probleme comment comment utilisé le bootstrap mqis avec l'aide de nos ainé on as trouver le temps de partager avec eux pour nous eclairsir dans une journnée sous forme déune science heureusement le peu qu'ils nous ont expliqué on pu realiser notre travaille.
             Ndasenga bwamingoy cedric l'unique etudiant qui se mis a fond pour la realisation du projrt.
             on rien trouver comme défaut sur le site existant selon cedric le site esisalama.com est un site bien structurer .......
+Les nom de membres du groupe :
+Ndasenga bwamingoy Cédric
+Kalenga Nkulu Sarah 
+Nyemba muzembe belle grâce 
+Ngongo stamur joseph 
+Umba kabondo Idrice 
+Belela nkita tegra 
+Umba kasongo rosie 
+Mbuyu mukanya Freddy 
+Kashinga muloko Hadassa 
+Madya ngoy Ernest 
